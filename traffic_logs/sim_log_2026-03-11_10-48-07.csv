@@ -1,0 +1,5 @@
+Row,Timestamp,GreenLane,L1_Score,L2_Score,L3_Score,L4_Score,GreenDuration,NightMode,Emergency
+0,08:00:00,Lane 1,9,10,11,2,5,NO,NO
+5,08:00:50,Lane 4,12,5,9,11,10,NO,NO
+6,08:01:00,Lane 1,18,18,3,6,15,NO,YES
+21,08:03:30,Lane 2,12,12,9,9,10,NO,NO
