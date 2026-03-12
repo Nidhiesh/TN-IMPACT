@@ -1,0 +1,2 @@
+Row,Timestamp,GreenLane,L1_Score,L2_Score,L3_Score,L4_Score,L1_Queue,L2_Queue,L3_Queue,L4_Queue,GreenDuration,NightMode,Emergency,EmergencyVehicle
+0,08:00:00,Lane 1,2,12,15,2,2,12,15,2,5,NO,NO,-
